@@ -39,18 +39,3 @@ Para ejecutar de manera satisfactoria cualquiera de las herramientas, el sistema
    opencv-python
    pandas
    openpyxl (requerido para la exportación y manipulación de archivos Excel)
-
----
-
- Instrucciones de Instalación
-
-1. Clonar el repositorio localmente utilizando la dirección Git:
-
-   git clone https://github.com/sperez74-art/C-deteccion-de-plagas.git
-   cd C-deteccion-de-plagas
-
-2. Instalar los paquetes requeridos por medio del gestor de dependencias de Python:
-
-   pip install ultralytics opencv-python pandas openpyxl
-
-3. Verificar que el archivo del modelo (.pt) esté ubicado correctamente en el directorio de trabajo asignado en los scripts antes de inicializar la captura o análisis.
